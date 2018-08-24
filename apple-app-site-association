@@ -3,10 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "3EFP2B895H.bernikovich.UniversalLinks",
-        "paths": [
-          "*"
-        ]
+        "appID": "6PQJ88HC63.com.waveaccess.dev",
+        "paths": [ "/app/*"]
       }
     ]
   }
